@@ -1,0 +1,12 @@
+node_modules
+.env
+data.json
+data.sqlite
+data.sqlite-shm
+data.sqlite-wal
+/data/ttsdata
+json.sqlite
+economy.sqlite
+.DS_Store
+/assets/.DS_Store
+.DS_Store
