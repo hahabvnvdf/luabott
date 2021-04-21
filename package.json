@@ -43,6 +43,7 @@
     "nodemon": "^2.0.7"
   },
   "scripts": {
+    "start":"cross-env TYPE_RUN=ci node bot.js",
     "test": "cross-env TYPE_RUN=ci node bot.js",
     "dev": "cross-env TYPE_RUN=dev nodemon bot.js",
     "build-inspect": "cross-env TYPE_RUN=production node --inspect --max-old-space-size=2048 index.js",
