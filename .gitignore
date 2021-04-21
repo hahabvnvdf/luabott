@@ -1,5 +1,4 @@
 node_modules
-.env
 data.json
 data.sqlite
 data.sqlite-shm
@@ -9,5 +8,4 @@ json.sqlite
 economy.sqlite
 .DS_Store
 /assets/.DS_Store
-.DS_Store
 node_modules/yarn.lock
